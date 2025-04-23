@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmpregadoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecac8986388b2677c369aaf496a19fd22d657350")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmpregadoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmpregadoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

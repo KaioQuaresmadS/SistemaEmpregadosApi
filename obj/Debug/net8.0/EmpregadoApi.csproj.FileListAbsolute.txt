@@ -136,3 +136,4 @@ C:\Users\Kaio Quaresma\Documents\Codigos\EmpregadoApi\EmpregadoApi\obj\Debug\net
 C:\Users\Kaio Quaresma\Documents\Codigos\EmpregadoApi\EmpregadoApi\obj\Debug\net8.0\EmpregadoApi.genruntimeconfig.cache
 C:\Users\Kaio Quaresma\Documents\Codigos\EmpregadoApi\EmpregadoApi\obj\Debug\net8.0\ref\EmpregadoApi.dll
 C:\Users\Kaio Quaresma\Documents\Codigos\EmpregadoApi\EmpregadoApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Kaio Quaresma\Documents\Codigos\empregadoApi\EmpregadoApi\obj\Debug\net8.0\EmpregadoApi.sourcelink.json
