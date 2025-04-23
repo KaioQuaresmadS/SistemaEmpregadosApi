@@ -13,7 +13,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["EmpregadoApi.csproj", "./"]
-RUN dotnet restore "./EmpregadoApi/EmpregadoApi.csproj"
+RUN dotnet restore "EmpregadoApi/EmpregadoApi.csproj"
 COPY . .
 WORKDIR "/src/EmpregadoApi"
 RUN dotnet build "./EmpregadoApi.csproj" -c $BUILD_CONFIGURATION -o /app/build
